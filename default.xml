@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/xiaomi/jasmine_sprout" name="rpbritton/android_device_xiaomi_jasmine_sprout" remote="github" revision="eleven"/>
+  <project path="vendor/xiaomi/jasmine_sprout" name="rpbritton/android_vendor_xiaomi_jasmine_sprout" remote="github" revision="eleven"/>
+  <project path="device/xiaomi/wayne-common" name="rpbritton/android_device_xiaomi_wayne-common" remote="github" revision="eleven"/>
+  <project path="vendor/xiaomi/wayne-common" name="rpbritton/android_vendor_xiaomi_wayne-common" remote="github" revision="eleven"/>
+  <project path="device/xiaomi/sdm660-common" name="rpbritton/android_device_xiaomi_sdm660-common" remote="github" revision="eleven"/>
+  <project path="vendor/xiaomi/sdm660-common" name="rpbritton/android_vendor_xiaomi_sdm660-common" remote="github" revision="eleven"/>
+  <project path="kernel/xiaomi/sdm660" name="rpbritton/android_kernel_xiaomi_sdm660" remote="github" revision="eleven"/>
+</manifest>
