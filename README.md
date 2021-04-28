@@ -5,8 +5,8 @@ https://github.com/rpbritton/android_local_manifests/releases
 ## Download
 https://source.android.com/setup/build/downloading
 ```
-repo init --depth=1 -u https://github.com/PixelExperience/manifest -b eleven
-git clone https://github.com/rpbritton/android_local_manifests .repo/local_manifests -b eleven-jasmine_sprout
+repo init --depth=1 -u https://github.com/PixelExperience/manifest -b eleven-plus
+git clone https://github.com/rpbritton/android_local_manifests .repo/local_manifests -b eleven-plus-jasmine_sprout
 repo sync -j$(nproc --all) -c --force-sync --no-clone-bundle --no-tag
 ```
 
