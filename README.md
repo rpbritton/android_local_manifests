@@ -1,6 +1,9 @@
 # Download Built ROMs
 https://github.com/rpbritton/android_local_manifests/releases
 
+# XDA Thread
+https://forum.xda-developers.com/t/rom-11-unofficial-pixel-experience-mi-a2-jasmine_sprout-aosp.4269517/
+
 # Build Yourself
 ## Download
 https://source.android.com/setup/build/downloading
