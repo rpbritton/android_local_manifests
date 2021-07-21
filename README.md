@@ -8,9 +8,9 @@ https://forum.xda-developers.com/t/rom-11-unofficial-pixel-experience-mi-a2-jasm
 ## Download
 https://source.android.com/setup/build/downloading
 ```
-repo init --depth=1 -u https://github.com/PixelExperience/manifest -b eleven-plus
+repo init -u https://github.com/PixelExperience/manifest -b eleven-plus
 git clone https://github.com/rpbritton/android_local_manifests .repo/local_manifests -b eleven-plus-jasmine_sprout
-repo sync -j$(nproc --all) -c --force-sync --no-clone-bundle --no-tag
+repo sync
 ```
 
 ## Build
