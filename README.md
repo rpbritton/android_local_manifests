@@ -9,7 +9,7 @@ https://forum.xda-developers.com/t/rom-11-unofficial-pixel-experience-mi-a2-jasm
 https://source.android.com/setup/build/downloading
 ```
 repo init -u https://github.com/PixelExperience/manifest -b eleven
-git clone https://github.com/rpbritton/android_local_manifests .repo/local_manifests -b eleven-jasmine_sprout
+git clone https://github.com/rpbritton/android_local_manifests .repo/local_manifests -b eleven-4.4-jasmine_sprout
 repo sync
 ```
 
