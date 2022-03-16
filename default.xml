@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="rpbritton" fetch="https://github.com/rpbritton" revision="eleven-lineage"/>
+  <remote name="rpbritton" fetch="https://github.com/rpbritton" revision="twelve-lineage"/>
   <project path="device/xiaomi/jasmine_sprout" name="android_device_xiaomi_jasmine_sprout" remote="rpbritton"/>
   <project path="vendor/xiaomi/jasmine_sprout" name="android_vendor_xiaomi_jasmine_sprout" remote="rpbritton"/>
   <project path="device/xiaomi/wayne-common" name="android_device_xiaomi_wayne-common" remote="rpbritton"/>

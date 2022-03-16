@@ -1,15 +1,12 @@
 # Download Built ROMs
 https://github.com/rpbritton/android_local_manifests/releases
 
-# XDA Thread
-https://forum.xda-developers.com/t/rom-11-unofficial-pixel-experience-mi-a2-jasmine_sprout-aosp.4269517/
-
 # Build Yourself
 ## Download
 https://source.android.com/setup/build/downloading
 ```
-repo init -u https://github.com/PixelExperience/manifest -b eleven-plus
-git clone https://github.com/rpbritton/android_local_manifests .repo/local_manifests -b eleven-plus-lineage-jasmine_sprout
+repo init -u https://github.com/PixelExperience/manifest -b twelve
+git clone https://github.com/rpbritton/android_local_manifests .repo/local_manifests -b twelve-lineage-jasmine_sprout
 repo sync
 ```
 
